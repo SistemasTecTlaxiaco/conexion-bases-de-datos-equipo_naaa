@@ -34,6 +34,7 @@
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.Silver;
             ClientSize = new Size(912, 800);
             Name = "Conexion_BaseDatos";
             StartPosition = FormStartPosition.CenterScreen;
