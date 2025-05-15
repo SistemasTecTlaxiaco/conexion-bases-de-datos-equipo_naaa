@@ -1,0 +1,17 @@
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\bin\Debug\net8.0-windows\Conexion_MySQL_PRACTICA1.exe
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\bin\Debug\net8.0-windows\Conexion_MySQL_PRACTICA1.deps.json
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\bin\Debug\net8.0-windows\Conexion_MySQL_PRACTICA1.runtimeconfig.json
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\bin\Debug\net8.0-windows\Conexion_MySQL_PRACTICA1.dll
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\bin\Debug\net8.0-windows\Conexion_MySQL_PRACTICA1.pdb
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\obj\Debug\net8.0-windows\Conexion_MySQL_PRACTICA1.Form1.resources
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\obj\Debug\net8.0-windows\Conexion_MySQL_PRACTICA1.csproj.GenerateResource.cache
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\obj\Debug\net8.0-windows\Conexion_MySQL_PRACTICA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\obj\Debug\net8.0-windows\Conexion_MySQL_PRACTICA1.AssemblyInfoInputs.cache
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\obj\Debug\net8.0-windows\Conexion_MySQL_PRACTICA1.AssemblyInfo.cs
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\obj\Debug\net8.0-windows\Conexion_MySQL_PRACTICA1.csproj.CoreCompileInputs.cache
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\obj\Debug\net8.0-windows\Conexion_MySQL_PRACTICA1.sourcelink.json
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\obj\Debug\net8.0-windows\Conexion_MySQL_PRACTICA1.dll
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\obj\Debug\net8.0-windows\refint\Conexion_MySQL_PRACTICA1.dll
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\obj\Debug\net8.0-windows\Conexion_MySQL_PRACTICA1.pdb
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\obj\Debug\net8.0-windows\Conexion_MySQL_PRACTICA1.genruntimeconfig.cache
+C:\Users\lopez\OneDrive\Escritorio\PROYECTOS VISUAL STUDIO\Conexion_MySQL_PRACTICA1\Conexion_MySQL_PRACTICA1\obj\Debug\net8.0-windows\ref\Conexion_MySQL_PRACTICA1.dll
