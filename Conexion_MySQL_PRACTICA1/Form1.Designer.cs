@@ -35,7 +35,7 @@
             // button1
             // 
             button1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            button1.BackColor = Color.FromArgb(128, 128, 255);
+            button1.BackColor = SystemColors.ActiveCaption;
             button1.Font = new Font("Segoe UI Variable Text", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button1.Location = new Point(354, 265);
             button1.Margin = new Padding(5);
@@ -60,7 +60,7 @@
             // 
             AutoScaleDimensions = new SizeF(14F, 31F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.Gray;
+            BackColor = Color.DarkGray;
             ClientSize = new Size(576, 376);
             Controls.Add(label1);
             Controls.Add(button1);
