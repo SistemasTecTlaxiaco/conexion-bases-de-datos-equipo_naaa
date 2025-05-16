@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conexion_MySQL_PRACTICA1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7f75caafd42e3b6e460125cecbd9399f2562ef5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3d583cfca4b2fd90832b3f13c1660c617514549")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conexion_MySQL_PRACTICA1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conexion_MySQL_PRACTICA1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
