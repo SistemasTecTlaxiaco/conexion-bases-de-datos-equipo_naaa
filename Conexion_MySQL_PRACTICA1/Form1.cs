@@ -23,5 +23,12 @@ namespace Conexion_MySQL_PRACTICA1
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.FlatAppearance.BorderSize = 8;
+            button1.FlatAppearance.BorderColor = Color.Black;
+        }
     }
 }
