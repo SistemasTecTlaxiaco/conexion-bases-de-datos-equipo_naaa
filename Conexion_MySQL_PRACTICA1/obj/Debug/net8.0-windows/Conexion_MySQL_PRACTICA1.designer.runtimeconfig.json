@@ -12,13 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-<<<<<<< HEAD
-      "C:\\Users\\abeor\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\lopez\\.nuget\\packages",
-=======
       "C:\\Users\\sahid\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\sahid\\.nuget\\packages",
->>>>>>> meti el codigo para poder hacer la conexion de la BD  a visual
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
